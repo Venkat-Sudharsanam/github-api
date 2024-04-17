@@ -25,3 +25,6 @@ curl -X POST \
     "to_email": "venkatsudharsanam.m@gmail.com"
 }'
 ```
+
+- Here is the sample email i got from the application : 
+![plot](./test-email.png)
